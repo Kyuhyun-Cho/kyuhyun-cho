@@ -1,6 +1,6 @@
-<div align="center>
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Kyuhyun%20GitHub&fontSize=75&animation=fadeIn&fontAlignY=40&desc=Hi%20there👋&descAlignY=61)
-</div>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Kyuhyun%20GitHub&fontSize=75&animation=fadeIn&fontAlignY=40&desc=Hi%20there👋&descAlignY=61)
+
             
 <div align="center">   
   Kookmin University, Bachelor of Computer Science (2019.03 ~ ) 
