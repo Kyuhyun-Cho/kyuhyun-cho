@@ -2,7 +2,8 @@
 ### Kookmin University, Bachelor of Computer Science (2019.03 ~ )
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyuhyun-Cho&show_icons=true&theme=gruvbox_light)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyuhyun-Cho&show_icons=true&theme=gruvbox_light)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuhyun-Cho)](https://github.com/Kyuhyun-Cho/github-readme-stats)
 
   <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
   </br>
