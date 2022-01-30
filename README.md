@@ -1,5 +1,6 @@
 <div align="center">
   Hi there👋
+  <br></br>
   Kookmin University, Bachelor of Computer Science (2019.03 ~ ) 
   <br></br>
   
