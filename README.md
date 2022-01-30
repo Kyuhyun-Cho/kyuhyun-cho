@@ -1,6 +1,5 @@
 <div align="center">   
-  Kookmin University, Bachelor of Computer Science (2019.03 ~ ) 
-  <br></br>
+  <h4>Kookmin University, Bachelor of Computer Science (2019.03 ~ )</h4>   
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyuhyun-Cho&show_icons=true&theme=default)
   <br></br>
