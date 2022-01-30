@@ -1,5 +1,8 @@
-<div align="center">
-  <h3>Hi there👋</h3>   
+<div align="center>
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Kyuhyun%20GitHub&fontSize=75&animation=fadeIn&fontAlignY=40&desc=Hi%20there👋&descAlignY=61)
+</div>
+            
+<div align="center">   
   Kookmin University, Bachelor of Computer Science (2019.03 ~ ) 
   <br></br>
   
