@@ -1,6 +1,5 @@
 <div align="center">
-  <h3>Hi there👋</h3>
-  <br></br>
+  <h3>Hi there👋</h3>   
   Kookmin University, Bachelor of Computer Science (2019.03 ~ ) 
   <br></br>
   
