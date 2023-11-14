@@ -2,6 +2,6 @@
   <h3>Kookmin University, Bachelor of Computer Science (2019.03 ~ )</h3>   
   <h3>Self-Driving Research and Development Club, FOSCAR (2021.12 ~ )</h3> 
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/84502236/221876932-eac8f0c0-06ba-4314-a359-43058b1b080f.png" width="500", height="450">
+  <img src="https://github.com/Kyuhyun-Cho/kyuhyun-cho/assets/97654622/82ce7c70-5de2-4da5-803d-b440b84d3691" width="500", height="450">
   </p>
 </div>
